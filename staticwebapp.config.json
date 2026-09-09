@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/*",
-      "redirect": "https://rovermoot.sharepoint.com/sites/kb",
+      "redirect": "https://rovermoot.sharepoint.com/sites/kb/",
       "statusCode": 301
     }
   ]
